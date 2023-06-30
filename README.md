@@ -9,3 +9,5 @@ Workflow:
 5. Run DB2_NeighborFinder.ipynb with Jupyter Notebook to find the closest loci. From there, modify the output with bash and BioPython to obtain the DB2 multifasta file.
 6. Run makeblastDB2.bash to generate DB2.
 7. Run BLASTP analysis on DB2 with BLASTPAnalyzer.bash.
+
+Contact javiortizdea via GitHub if you have any questions.
